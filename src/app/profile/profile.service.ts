@@ -181,10 +181,10 @@ export class ProfileService {
     },
 
   ]
-  about2 = `Software Enginner with 2.0+ years of experience .
-  AWS and C# Certificated.
-  Expertise in Python, SQL, C# and Angular.
-  Have good understanding of `
+  about2 = `  Data Scientist with 2.0+ years of experience
+            . Software Enginner with 2.0+ years of experience
+            . AWS, Python, SQL and C# Certificated
+            . Expertise in any technology to solve a modern problem `
 
   about = "Lover of innovation and everything related to generate new solutions. Face problems with a smile and solve them as soon as possible."
   resumeurl = "https://drive.google.com/file/d/1XY0xlYDX8aZA1KwCnnjH6Y3G4iTWcV-D/view?usp=sharing"
